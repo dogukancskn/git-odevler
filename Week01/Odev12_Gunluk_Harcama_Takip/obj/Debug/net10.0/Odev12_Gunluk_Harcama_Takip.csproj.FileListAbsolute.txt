@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\bin\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.exe
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\bin\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.deps.json
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\bin\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.runtimeconfig.json
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\bin\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.dll
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\bin\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.pdb
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.dll
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\refint\Odev12_Gunluk_Harcama_Takip.dll
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.pdb
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\Odev12_Gunluk_Harcama_Takip.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week01\Odev12_Gunluk_Harcama_Takip\obj\Debug\net10.0\ref\Odev12_Gunluk_Harcama_Takip.dll

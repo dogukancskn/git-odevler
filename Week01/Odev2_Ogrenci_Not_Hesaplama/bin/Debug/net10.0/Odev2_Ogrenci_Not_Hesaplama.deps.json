@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Odev2_Ogrenci_Not_Hesaplama/1.0.0": {
+        "runtime": {
+          "Odev2_Ogrenci_Not_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev2_Ogrenci_Not_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\bin\Debug\net10.0\Odev8_Sayi_Analiz.exe
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\bin\Debug\net10.0\Odev8_Sayi_Analiz.deps.json
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\bin\Debug\net10.0\Odev8_Sayi_Analiz.runtimeconfig.json
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\bin\Debug\net10.0\Odev8_Sayi_Analiz.dll
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\bin\Debug\net10.0\Odev8_Sayi_Analiz.pdb
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\Odev8_Sayi_Analiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\Odev8_Sayi_Analiz.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\Odev8_Sayi_Analiz.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\Odev8_Sayi_Analiz.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\Odev8_Sayi_Analiz.dll
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\refint\Odev8_Sayi_Analiz.dll
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\Odev8_Sayi_Analiz.pdb
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\Odev8_Sayi_Analiz.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week01\Odev8_Sayi_Analiz\obj\Debug\net10.0\ref\Odev8_Sayi_Analiz.dll

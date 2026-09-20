@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\bin\Debug\net10.0\Odev11_Sinema_Bilet.exe
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\bin\Debug\net10.0\Odev11_Sinema_Bilet.deps.json
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\bin\Debug\net10.0\Odev11_Sinema_Bilet.runtimeconfig.json
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\bin\Debug\net10.0\Odev11_Sinema_Bilet.dll
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\bin\Debug\net10.0\Odev11_Sinema_Bilet.pdb
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\Odev11_Sinema_Bilet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\Odev11_Sinema_Bilet.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\Odev11_Sinema_Bilet.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\Odev11_Sinema_Bilet.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\Odev11_Sinema_Bilet.dll
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\refint\Odev11_Sinema_Bilet.dll
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\Odev11_Sinema_Bilet.pdb
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\Odev11_Sinema_Bilet.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week01\Odev11_Sinema_Bilet\obj\Debug\net10.0\ref\Odev11_Sinema_Bilet.dll

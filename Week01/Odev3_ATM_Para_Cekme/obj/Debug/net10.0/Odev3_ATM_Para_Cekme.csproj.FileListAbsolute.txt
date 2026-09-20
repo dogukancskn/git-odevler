@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.exe
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.deps.json
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.runtimeconfig.json
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.dll
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.pdb
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.dll
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\refint\Odev3_ATM_Para_Cekme.dll
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.pdb
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week01\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\ref\Odev3_ATM_Para_Cekme.dll

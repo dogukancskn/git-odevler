@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev01.exe
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev01.deps.json
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev01.runtimeconfig.json
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev01.dll
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev01.pdb
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev01.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev01.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev01.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev01.dll
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\refint\Odev01.dll
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev01.pdb
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev01.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week01\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\ref\Odev01.dll

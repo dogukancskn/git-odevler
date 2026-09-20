@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Odev9_Sayi_Tahmin_Oyunu/1.0.0": {
+        "runtime": {
+          "Odev9_Sayi_Tahmin_Oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev9_Sayi_Tahmin_Oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

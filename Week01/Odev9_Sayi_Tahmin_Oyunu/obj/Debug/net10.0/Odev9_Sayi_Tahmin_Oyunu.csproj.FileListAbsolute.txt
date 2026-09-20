@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\bin\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.exe
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\bin\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.deps.json
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\bin\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.runtimeconfig.json
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\bin\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.dll
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\bin\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.pdb
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.dll
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\refint\Odev9_Sayi_Tahmin_Oyunu.dll
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.pdb
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\Odev9_Sayi_Tahmin_Oyunu.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week01\Odev9_Sayi_Tahmin_Oyunu\obj\Debug\net10.0\ref\Odev9_Sayi_Tahmin_Oyunu.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Odev12_Gunluk_Harcama_Takip/1.0.0": {
+        "runtime": {
+          "Odev12_Gunluk_Harcama_Takip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev12_Gunluk_Harcama_Takip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

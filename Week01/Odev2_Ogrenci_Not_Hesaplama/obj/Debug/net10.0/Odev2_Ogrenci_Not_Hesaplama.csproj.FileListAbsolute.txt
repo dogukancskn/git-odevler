@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\bin\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.exe
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\bin\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.deps.json
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\bin\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.runtimeconfig.json
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\bin\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.dll
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\bin\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.pdb
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.dll
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\refint\Odev2_Ogrenci_Not_Hesaplama.dll
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.pdb
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\Odev2_Ogrenci_Not_Hesaplama.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week01\Odev2_Ogrenci_Not_Hesaplama\obj\Debug\net10.0\ref\Odev2_Ogrenci_Not_Hesaplama.dll

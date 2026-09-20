@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\bin\Debug\net10.0\Odev10_Mini_Butce_Takip.exe
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\bin\Debug\net10.0\Odev10_Mini_Butce_Takip.deps.json
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\bin\Debug\net10.0\Odev10_Mini_Butce_Takip.runtimeconfig.json
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\bin\Debug\net10.0\Odev10_Mini_Butce_Takip.dll
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\bin\Debug\net10.0\Odev10_Mini_Butce_Takip.pdb
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\Odev10_Mini_Butce_Takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\Odev10_Mini_Butce_Takip.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\Odev10_Mini_Butce_Takip.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\Odev10_Mini_Butce_Takip.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\Odev10_Mini_Butce_Takip.dll
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\refint\Odev10_Mini_Butce_Takip.dll
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\Odev10_Mini_Butce_Takip.pdb
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\Odev10_Mini_Butce_Takip.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week01\Odev10_Mini_Butce_Takip\obj\Debug\net10.0\ref\Odev10_Mini_Butce_Takip.dll
