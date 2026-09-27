@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\bin\Debug\net10.0\Assignment02-GradeAverage.exe
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\bin\Debug\net10.0\Assignment02-GradeAverage.deps.json
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\bin\Debug\net10.0\Assignment02-GradeAverage.runtimeconfig.json
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\bin\Debug\net10.0\Assignment02-GradeAverage.dll
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\bin\Debug\net10.0\Assignment02-GradeAverage.pdb
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\Assignment02-GradeAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\Assignment02-GradeAverage.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\Assignment02-GradeAverage.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\Assignment02-GradeAverage.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\Assignment02-GradeAverage.dll
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\refint\Assignment02-GradeAverage.dll
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\Assignment02-GradeAverage.pdb
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\Assignment02-GradeAverage.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week02\Assignment02-GradeAverage\obj\Debug\net10.0\ref\Assignment02-GradeAverage.dll

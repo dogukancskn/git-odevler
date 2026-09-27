@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.exe
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.deps.json
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.runtimeconfig.json
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.dll
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.pdb
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.dll
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\refint\Assignment01-SafeNumberInput.dll
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.pdb
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week02\Assignment01-SafeNumberInput\obj\Debug\net10.0\ref\Assignment01-SafeNumberInput.dll

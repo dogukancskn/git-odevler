@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\bin\Debug\net10.0\Assignment06-TryParsePrice.exe
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\bin\Debug\net10.0\Assignment06-TryParsePrice.deps.json
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\bin\Debug\net10.0\Assignment06-TryParsePrice.runtimeconfig.json
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\bin\Debug\net10.0\Assignment06-TryParsePrice.dll
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\bin\Debug\net10.0\Assignment06-TryParsePrice.pdb
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\Assignment06-TryParsePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\Assignment06-TryParsePrice.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\Assignment06-TryParsePrice.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\Assignment06-TryParsePrice.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\Assignment06-TryParsePrice.dll
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\refint\Assignment06-TryParsePrice.dll
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\Assignment06-TryParsePrice.pdb
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\Assignment06-TryParsePrice.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week02\Assignment06-TryParsePrice\obj\Debug\net10.0\ref\Assignment06-TryParsePrice.dll

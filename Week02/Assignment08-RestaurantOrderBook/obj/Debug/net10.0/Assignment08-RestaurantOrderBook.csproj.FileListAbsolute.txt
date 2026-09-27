@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\bin\Debug\net10.0\Assignment08-RestaurantOrderBook.exe
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\bin\Debug\net10.0\Assignment08-RestaurantOrderBook.deps.json
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\bin\Debug\net10.0\Assignment08-RestaurantOrderBook.runtimeconfig.json
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\bin\Debug\net10.0\Assignment08-RestaurantOrderBook.dll
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\bin\Debug\net10.0\Assignment08-RestaurantOrderBook.pdb
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\Assignment08-RestaurantOrderBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\Assignment08-RestaurantOrderBook.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\Assignment08-RestaurantOrderBook.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\Assignment08-RestaurantOrderBook.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\Assignment08-RestaurantOrderBook.dll
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\refint\Assignment08-RestaurantOrderBook.dll
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\Assignment08-RestaurantOrderBook.pdb
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\Assignment08-RestaurantOrderBook.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week02\Assignment08-RestaurantOrderBook\obj\Debug\net10.0\ref\Assignment08-RestaurantOrderBook.dll

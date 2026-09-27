@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\bin\Debug\net10.0\Assignment09-StepCounter.exe
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\bin\Debug\net10.0\Assignment09-StepCounter.deps.json
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\bin\Debug\net10.0\Assignment09-StepCounter.runtimeconfig.json
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\bin\Debug\net10.0\Assignment09-StepCounter.dll
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\bin\Debug\net10.0\Assignment09-StepCounter.pdb
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\Assignment09-StepCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\Assignment09-StepCounter.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\Assignment09-StepCounter.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\Assignment09-StepCounter.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\Assignment09-StepCounter.dll
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\refint\Assignment09-StepCounter.dll
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\Assignment09-StepCounter.pdb
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\Assignment09-StepCounter.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week02\Assignment09-StepCounter\obj\Debug\net10.0\ref\Assignment09-StepCounter.dll

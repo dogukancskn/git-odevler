@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\bin\Debug\net10.0\Assignment03-NameSearch.exe
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\bin\Debug\net10.0\Assignment03-NameSearch.deps.json
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\bin\Debug\net10.0\Assignment03-NameSearch.runtimeconfig.json
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\bin\Debug\net10.0\Assignment03-NameSearch.dll
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\bin\Debug\net10.0\Assignment03-NameSearch.pdb
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\Assignment03-NameSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\Assignment03-NameSearch.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\Assignment03-NameSearch.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\Assignment03-NameSearch.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\Assignment03-NameSearch.dll
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\refint\Assignment03-NameSearch.dll
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\Assignment03-NameSearch.pdb
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\Assignment03-NameSearch.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week02\Assignment03-NameSearch\obj\Debug\net10.0\ref\Assignment03-NameSearch.dll

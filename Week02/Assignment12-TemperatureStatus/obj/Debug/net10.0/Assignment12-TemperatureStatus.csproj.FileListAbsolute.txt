@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\bin\Debug\net10.0\Assignment12-TemperatureStatus.exe
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\bin\Debug\net10.0\Assignment12-TemperatureStatus.deps.json
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\bin\Debug\net10.0\Assignment12-TemperatureStatus.runtimeconfig.json
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\bin\Debug\net10.0\Assignment12-TemperatureStatus.dll
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\bin\Debug\net10.0\Assignment12-TemperatureStatus.pdb
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\Assignment12-TemperatureStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\Assignment12-TemperatureStatus.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\Assignment12-TemperatureStatus.AssemblyInfo.cs
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\Assignment12-TemperatureStatus.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\Assignment12-TemperatureStatus.dll
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\refint\Assignment12-TemperatureStatus.dll
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\Assignment12-TemperatureStatus.pdb
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\Assignment12-TemperatureStatus.genruntimeconfig.cache
+C:\Users\cosku\Desktop\Week02\Assignment12-TemperatureStatus\obj\Debug\net10.0\ref\Assignment12-TemperatureStatus.dll
