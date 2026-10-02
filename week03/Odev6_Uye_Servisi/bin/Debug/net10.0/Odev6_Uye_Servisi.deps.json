@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Odev6_Uye_Servisi/1.0.0": {
+        "runtime": {
+          "Odev6_Uye_Servisi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev6_Uye_Servisi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

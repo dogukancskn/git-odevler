@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\bin\Debug\net10.0\Odev4_Miras_Tasit.exe
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\bin\Debug\net10.0\Odev4_Miras_Tasit.deps.json
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\bin\Debug\net10.0\Odev4_Miras_Tasit.runtimeconfig.json
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\bin\Debug\net10.0\Odev4_Miras_Tasit.dll
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\bin\Debug\net10.0\Odev4_Miras_Tasit.pdb
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\Odev4_Miras_Tasit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\Odev4_Miras_Tasit.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\Odev4_Miras_Tasit.AssemblyInfo.cs
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\Odev4_Miras_Tasit.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\Odev4_Miras_Tasit.dll
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\refint\Odev4_Miras_Tasit.dll
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\Odev4_Miras_Tasit.pdb
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\Odev4_Miras_Tasit.genruntimeconfig.cache
+C:\Users\cosku\Desktop\week03\Odev4_Miras_Tasit\obj\Debug\net10.0\ref\Odev4_Miras_Tasit.dll

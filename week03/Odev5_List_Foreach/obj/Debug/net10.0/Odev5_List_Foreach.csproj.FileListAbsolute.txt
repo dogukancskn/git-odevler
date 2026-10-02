@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\bin\Debug\net10.0\Odev5_List_Foreach.exe
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\bin\Debug\net10.0\Odev5_List_Foreach.deps.json
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\bin\Debug\net10.0\Odev5_List_Foreach.runtimeconfig.json
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\bin\Debug\net10.0\Odev5_List_Foreach.dll
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\bin\Debug\net10.0\Odev5_List_Foreach.pdb
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\Odev5_List_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\Odev5_List_Foreach.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\Odev5_List_Foreach.AssemblyInfo.cs
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\Odev5_List_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\Odev5_List_Foreach.dll
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\refint\Odev5_List_Foreach.dll
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\Odev5_List_Foreach.pdb
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\Odev5_List_Foreach.genruntimeconfig.cache
+C:\Users\cosku\Desktop\week03\Odev5_List_Foreach\obj\Debug\net10.0\ref\Odev5_List_Foreach.dll

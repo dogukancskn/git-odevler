@@ -1,0 +1,2 @@
+Traktör diye bir sınıf yaratırdım. Traktör:Vehicle deyip miras alırdım.
+Farklı olark tipini(4x2 yada 4x4) bunu isterdim.

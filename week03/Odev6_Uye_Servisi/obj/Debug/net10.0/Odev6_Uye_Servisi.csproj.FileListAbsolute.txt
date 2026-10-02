@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\bin\Debug\net10.0\Odev6_Uye_Servisi.exe
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\bin\Debug\net10.0\Odev6_Uye_Servisi.deps.json
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\bin\Debug\net10.0\Odev6_Uye_Servisi.runtimeconfig.json
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\bin\Debug\net10.0\Odev6_Uye_Servisi.dll
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\bin\Debug\net10.0\Odev6_Uye_Servisi.pdb
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\Odev6_Uye_Servisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\Odev6_Uye_Servisi.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\Odev6_Uye_Servisi.AssemblyInfo.cs
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\Odev6_Uye_Servisi.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\Odev6_Uye_Servisi.dll
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\refint\Odev6_Uye_Servisi.dll
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\Odev6_Uye_Servisi.pdb
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\Odev6_Uye_Servisi.genruntimeconfig.cache
+C:\Users\cosku\Desktop\week03\Odev6_Uye_Servisi\obj\Debug\net10.0\ref\Odev6_Uye_Servisi.dll

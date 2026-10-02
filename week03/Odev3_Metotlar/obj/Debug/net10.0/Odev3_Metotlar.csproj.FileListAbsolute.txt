@@ -1,0 +1,14 @@
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\bin\Debug\net10.0\Odev3_Metotlar.exe
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\bin\Debug\net10.0\Odev3_Metotlar.deps.json
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\bin\Debug\net10.0\Odev3_Metotlar.runtimeconfig.json
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\bin\Debug\net10.0\Odev3_Metotlar.dll
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\bin\Debug\net10.0\Odev3_Metotlar.pdb
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\Odev3_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\Odev3_Metotlar.AssemblyInfoInputs.cache
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\Odev3_Metotlar.AssemblyInfo.cs
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\Odev3_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\Odev3_Metotlar.dll
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\refint\Odev3_Metotlar.dll
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\Odev3_Metotlar.pdb
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\Odev3_Metotlar.genruntimeconfig.cache
+C:\Users\cosku\Desktop\week03\Odev3_Metotlar\obj\Debug\net10.0\ref\Odev3_Metotlar.dll

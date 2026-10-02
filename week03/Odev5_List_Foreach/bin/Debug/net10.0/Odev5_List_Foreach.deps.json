@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Odev5_List_Foreach/1.0.0": {
+        "runtime": {
+          "Odev5_List_Foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev5_List_Foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
