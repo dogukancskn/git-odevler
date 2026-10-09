@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cosku\\Desktop\\week03\\Odev2_Constructor\\Odev2_Constructor.csproj",
+      "projectUniqueName": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev2_Constructor\\Odev2_Constructor.csproj",
       "projectName": "Odev2_Constructor",
-      "projectPath": "C:\\Users\\cosku\\Desktop\\week03\\Odev2_Constructor\\Odev2_Constructor.csproj",
+      "projectPath": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev2_Constructor\\Odev2_Constructor.csproj",
       "packagesPath": "C:\\Users\\cosku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cosku\\Desktop\\week03\\Odev2_Constructor\\obj\\",
+      "outputPath": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev2_Constructor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

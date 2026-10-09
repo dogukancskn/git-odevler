@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cosku\\Desktop\\week03\\Odev4_Miras_Tasit\\Odev4_Miras_Tasit.csproj",
+      "projectUniqueName": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev4_Miras_Tasit\\Odev4_Miras_Tasit.csproj",
       "projectName": "Odev4_Miras_Tasit",
-      "projectPath": "C:\\Users\\cosku\\Desktop\\week03\\Odev4_Miras_Tasit\\Odev4_Miras_Tasit.csproj",
+      "projectPath": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev4_Miras_Tasit\\Odev4_Miras_Tasit.csproj",
       "packagesPath": "C:\\Users\\cosku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cosku\\Desktop\\week03\\Odev4_Miras_Tasit\\obj\\",
+      "outputPath": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev4_Miras_Tasit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

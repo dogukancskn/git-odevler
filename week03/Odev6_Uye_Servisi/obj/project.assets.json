@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cosku\\Desktop\\week03\\Odev6_Uye_Servisi\\Odev6_Uye_Servisi.csproj",
+      "projectUniqueName": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev6_Uye_Servisi\\Odev6_Uye_Servisi.csproj",
       "projectName": "Odev6_Uye_Servisi",
-      "projectPath": "C:\\Users\\cosku\\Desktop\\week03\\Odev6_Uye_Servisi\\Odev6_Uye_Servisi.csproj",
+      "projectPath": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev6_Uye_Servisi\\Odev6_Uye_Servisi.csproj",
       "packagesPath": "C:\\Users\\cosku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cosku\\Desktop\\week03\\Odev6_Uye_Servisi\\obj\\",
+      "outputPath": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev6_Uye_Servisi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

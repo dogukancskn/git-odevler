@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cosku\\Desktop\\week03\\Odev1_Urun_Sinifi\\Odev1_Urun_Sinifi.csproj": {}
+    "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev1_Urun_Sinifi\\Odev1_Urun_Sinifi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cosku\\Desktop\\week03\\Odev1_Urun_Sinifi\\Odev1_Urun_Sinifi.csproj": {
+    "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev1_Urun_Sinifi\\Odev1_Urun_Sinifi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cosku\\Desktop\\week03\\Odev1_Urun_Sinifi\\Odev1_Urun_Sinifi.csproj",
+        "projectUniqueName": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev1_Urun_Sinifi\\Odev1_Urun_Sinifi.csproj",
         "projectName": "Odev1_Urun_Sinifi",
-        "projectPath": "C:\\Users\\cosku\\Desktop\\week03\\Odev1_Urun_Sinifi\\Odev1_Urun_Sinifi.csproj",
+        "projectPath": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev1_Urun_Sinifi\\Odev1_Urun_Sinifi.csproj",
         "packagesPath": "C:\\Users\\cosku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cosku\\Desktop\\week03\\Odev1_Urun_Sinifi\\obj\\",
+        "outputPath": "C:\\Users\\cosku\\Desktop\\gitProjeleri\\git-odevler\\week03\\Odev1_Urun_Sinifi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
